@@ -1,5 +1,5 @@
 
-# Busciglio smiles Wabpage UI Testing Report:
+# Busciglio smiles Wabpage UI Testing Reports:
 
 A brief description of what this project does and who it's for
 
