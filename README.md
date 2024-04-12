@@ -1,7 +1,7 @@
 
 # Busciglio smiles Wabpage UI Testing Reports:
 
-A brief description of what this project does and who it's for
+Brief description of what this project does and who it's for
 
 
 ## Update Report:
@@ -21,7 +21,7 @@ Add badges from somewhere like: [Busciglio-Smiles](https://www.theorthodoc.com/)
 
 
 
-## Used By
+## Used By:
 
 This project is used by the following companies:
 
