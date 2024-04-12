@@ -21,7 +21,7 @@ Add badges from somewhere like: [Busciglio-Smiles](https://www.theorthodoc.com/)
 
 
 
-## Used By:
+## Used:
 
 This project is used by the following companies:
 
