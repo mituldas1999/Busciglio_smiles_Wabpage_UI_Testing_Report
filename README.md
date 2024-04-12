@@ -12,7 +12,7 @@ Brief description of what this project does and who it's for
 - [Figma Link](https://www.figma.com/file/yIrgrf1ckyAcSJP5LzHY3Y/Busciglio-Smiles-Only-Home-Page?type=design&node-id=0-1&mode=design&t=8z30NpJtrKLmT6om-0)
 
 
-## Badges
+## Badges this project 
 
 Add badges from somewhere like: [Busciglio-Smiles](https://www.theorthodoc.com/)
 
